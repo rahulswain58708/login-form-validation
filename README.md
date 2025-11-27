@@ -1,2 +1,25 @@
-# login-form-validation
-A simple login form with email and password validation using HTML, CSS, and JavaScript.
+# Form and Form Validation Project
+
+This project is created for the **Form and Form Validation** topic.  
+It includes a login form where email and password are validated before submission.
+
+## Live Demo
+🔗 https://YOUR_LIVE_LINK_HERE
+
+## Features
+- Email validation using regex
+- Password validation using regex
+- Error messages for wrong input
+- Success message after correct submit
+- Simple and clean UI
+
+## Project Files
+- index.html  
+- style.css  
+- script.js  
+
+## How to Run
+Just open **index.html** in your browser and use the form.
+
+## Author
+Rahul Swain
